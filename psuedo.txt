@@ -1,0 +1,29 @@
+Work Flow for CLI Org Tracker
+
+Create 3 tables in schema.sql 
+- Department
+- Role
+- Employee
+
+Create a 'start' function to kick off inquirer to ask what user wants to do:  
+- view all departments 
+- view all roles 
+- view all employees 
+- add a department 
+- add a role 
+- add an employee 
+- update an employee role
+
+View all Department inquiries
+
+View all Roles inquiries
+
+View all Employees inquiries
+
+Add Department function
+
+Add Role function
+
+Add Employee function
+
+Update Employee function
