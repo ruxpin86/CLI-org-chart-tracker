@@ -14,11 +14,11 @@ Create a 'start' function to kick off inquirer to ask what user wants to do:
 - add an employee 
 - update an employee role
 
-View all Department inquiries
+View all Department inquiries function
 
-View all Roles inquiries
+View all Roles inquiries function
 
-View all Employees inquiries
+View all Employees inquiries function
 
 Add Department function
 
