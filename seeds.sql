@@ -21,4 +21,4 @@ VALUES ("John", "Doe", 1, null),
        ("Jim", "Bo", 2, 1),
        ("Molly", "Smith", 3, null),
        ("Odie", "Dog", 4, null),
-       ("Ollie", "Cat", 5, null);
+       ("Ollie", "Cat", 5, null)
